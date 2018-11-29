@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.login_form button{
+  display:block;
+}
+
+.login_form a{
+  display:block;
+}
